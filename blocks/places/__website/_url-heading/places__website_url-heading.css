@@ -1,0 +1,12 @@
+.places__website_url-heading {
+    font-size: 12px;
+    line-height: 170%;
+    letter-spacing: 0.2em;
+    color: #AAAAAA;
+}
+
+@media screen and (max-width: 860px) {
+    .places__website_url-heading {
+        line-height: 100%;
+    }
+}

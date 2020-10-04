@@ -1,0 +1,7 @@
+@import url('./_label/intro__list-item_label.css');
+
+.intro__list-item {
+    font-size: 12px;
+    line-height: 150%;
+    max-width: 690px;
+}

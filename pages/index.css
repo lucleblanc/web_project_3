@@ -1,0 +1,26 @@
+@import url('../vendor/normalize.css');
+@import url('../vendor/fonts.css');
+@import url('../blocks/cover/cover.css');
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/header/header.css');
+@import url('../blocks/intro/intro.css');
+@import url('../blocks/lead/lead.css');
+@import url('../blocks/photo-grid/photo-grid.css');
+@import url('../blocks/places/places.css');
+@import url('../blocks/link-hover/link-hover.css');
+
+.page {
+    background-color: #2A2C2F;
+    font-family: 'Inter';
+    font-weight: normal;
+    color: #ffffff;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+}
+
+.page__container {
+    max-width: 1184px;
+    margin: 0 auto;
+}

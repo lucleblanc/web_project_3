@@ -1,0 +1,18 @@
+@import url('./_link/footer__links_link.css');
+
+.footer__links {
+    font-size: 16px;
+    line-height: 112%;
+    display: flex;
+    align-items: center;
+}
+
+@media screen and (max-width: 425px) {
+    .footer__links {
+        font-size: 24px;
+        line-height: 100%;
+        flex-direction: column;
+        align-items: initial;
+        margin-left: 16px;
+    }
+}

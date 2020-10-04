@@ -1,0 +1,8 @@
+@import url('./_link/places__website_link.css');
+@import url('./_url-heading/places__website_url-heading.css');
+
+@media screen and (max-width: 425px) {
+    .places__website {
+        display: none;
+    }
+}

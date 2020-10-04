@@ -1,0 +1,22 @@
+.lead__caption-container {
+    max-width: 984px;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 1120px) {
+    .lead__caption-container {
+        max-width: 928px;
+    }
+}
+
+@media screen and (max-width: 860px) {
+    .lead__caption-container {
+        max-width: 768px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .lead__caption-container {
+        max-width: 320px;
+    }
+}
