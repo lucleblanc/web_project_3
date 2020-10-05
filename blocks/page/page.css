@@ -1,0 +1,12 @@
+@import url('./__container/pages__container.css');
+
+.page {
+    background-color: #2A2C2F;
+    font-family: 'Inter', 'Arial', sans-serif;
+    font-weight: normal;
+    color: #ffffff;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+}
