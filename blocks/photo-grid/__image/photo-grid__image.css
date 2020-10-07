@@ -2,19 +2,22 @@
 
 @media screen and (max-width: 1120px) {
     .photo-grid__image {
-        width: 300px;
+        min-width: 300px;
+        object-fit: cover;
     }
 }
 
 @media screen and (max-width: 860px) {
     .photo-grid__image {
-        width: 352px;
+        min-width: 352px;
+        object-fit: cover;
     }
 }
 
 
 @media screen and (max-width: 425px) {
     .photo-grid__image {
-        width: 288px;
+        min-width: 288px;
+        object-fit: cover;
     }
 }
